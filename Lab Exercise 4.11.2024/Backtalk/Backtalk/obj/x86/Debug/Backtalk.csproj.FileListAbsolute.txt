@@ -1,0 +1,4 @@
+Q:\SST\2023 - 2024 Courses\C#.NET\MyC#\Lab Exercise 4.11.2024\Backtalk\Backtalk\bin\Debug\Backtalk.exe
+Q:\SST\2023 - 2024 Courses\C#.NET\MyC#\Lab Exercise 4.11.2024\Backtalk\Backtalk\bin\Debug\Backtalk.pdb
+Q:\SST\2023 - 2024 Courses\C#.NET\MyC#\Lab Exercise 4.11.2024\Backtalk\Backtalk\obj\x86\Debug\Backtalk.exe
+Q:\SST\2023 - 2024 Courses\C#.NET\MyC#\Lab Exercise 4.11.2024\Backtalk\Backtalk\obj\x86\Debug\Backtalk.pdb
